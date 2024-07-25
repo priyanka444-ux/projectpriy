@@ -1,0 +1,23 @@
+leraning linux
+Df  
+Su for admin access will use sudo su 
+Ls
+Pwd
+Chmod
+Useradd 
+Cd 
+history 
+user@machinename currentlocation]
+Vi 
+Cat 
+Exit 
+rm -rf
+Touch 
+/sharath/app/
+We are not aware log file location 
+Ls /sharath/app/. 
+Ls /sharath/app/log
+Tail 
+Head 
+Cp source destination 
+Mv
