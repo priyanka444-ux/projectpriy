@@ -21,3 +21,30 @@ Tail
 Head 
 Cp source destination 
 Mv
+Ping 
+Ssh -I authenticationfile(private /.pem) user@hostname
+Physical-Machine: banking (important data related )  
+ virtual-machine: everyone use  application 
+cloud-computing - providers == AWS , azure, GCP, Alibaba, etc etc…
+Maintanace  capital-cost 
+Flipkart offers === site load will be high — more machines are required == 100 machines  
+Normal days it is bit less  ==== 65 machines 
+Scaling 
+99.*** or 5min. 8min. 
+97.**
+0 down-time
+Ssh: to connect some machine from your machine 
+Authentication
+Ip adress 
+User
+Ssh-keygen To generate private and public key 
+A(private) == B connect(pub key) 
+Private file  public file .pub
+Ssh -I authenticationfile(private /.pem) user@hostname
+Machine:  hostname / IPaddress === sharath / 10.0.0.0  
+22 port schell
+ Ports: tcp port 
+Default ports 
+Tasks:
+Html codes 2XX(200-sucess) , 3XX, 4XX, 5XX 
+Default ports
